@@ -1,6 +1,7 @@
 <p align="center">
   <a>
-    <img width="700" height="400" src="https://github.com/user-attachments/assets/placeholder-pdfx-banner" />
+    <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/a207c771-dd0d-4065-ba3e-6831dd3f634f" />
+
   </a>
 </p>
 
@@ -32,14 +33,13 @@ Foi criada para reduzir o tamanho de PDFs de forma rápida e sem depender de ser
 </p>
 
 ---
+<p align="center">
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/ee90194c-392e-41b9-a530-b91e14561080" />
+</p>
 
 ## ⚙️ Funcionalidades
 
 ### 🗂️ Seleção de Arquivo
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/placeholder-dropzone" width="600" />
-</p>
 
 O PDFX oferece duas formas de selecionar o PDF:
 
@@ -51,10 +51,6 @@ Após a seleção, o app exibe imediatamente o nome e o tamanho original do arqu
 ---
 
 ### 📉 Compressão de PDF
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/placeholder-compress" width="600" />
-</p>
 
 O motor de compressão utiliza o **Ghostscript** com parâmetros otimizados para máxima redução de tamanho:
 
