@@ -176,6 +176,4 @@ Gabriel Nicolas — Analista de Software
 [![GitHub](https://img.shields.io/badge/-Nik0lax-24292E?style=flat-square&logo=github&logoColor=white)](https://github.com/Nik0lax/)
 [![LinkedIn](https://img.shields.io/badge/-gabrielnikolax-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielnikolax/)
 
-# pdfx_compressor
-Executável Windows para comprimir PDF Offline. Desenvolvido em Python
 
