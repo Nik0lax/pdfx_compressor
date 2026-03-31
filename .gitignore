@@ -1,0 +1,16 @@
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Ghostscript installer (binário pesado)
+gs_installer/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+installer.iss
+
+# Output do Inno Setup
+installer_output/
